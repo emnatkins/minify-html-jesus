@@ -15,3 +15,6 @@ Minify HTML output for clean looking markup and faster downloading.
 
 = v1.0 - 3/13/2022 =
 * Initial release.
+
+https://wordpress.org/
+https://wordpress.org/plugins/minify-html-jesus/
